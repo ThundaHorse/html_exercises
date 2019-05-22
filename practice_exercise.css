@@ -1,0 +1,31 @@
+body {
+  background-color: black;
+  /*background-image: url("https://assets.pokemon.com/assets/cms2/img/pokedex/full/025.png");*/
+  background-position: center;
+  /*opacity: 0.5;*/
+  background-repeat: no-repeat;
+}
+
+.intro {
+  border: 4px dotted lightgreen;
+}
+
+h1 {
+  color: #39ff14;
+  outline-color: yellow
+}
+
+.bg {
+  background-image: url("https://assets.pokemon.com/assets/cms2/img/pokedex/full/025.png");
+  background-position: center;
+  background-repeat: no-repeat;
+  opacity: 0.8;
+}
+
+p, ul, .move-list {
+  color: lightblue;
+}
+
+.movie-list {
+  border: 4px dotted powderblue;
+}
